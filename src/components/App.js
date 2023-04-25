@@ -9,6 +9,7 @@ import Movies from "./Movies";
 function App() {
   return (
     <div>
+      <div>NavBar</div>
       <Router>
         <Routes>
           <Route path="/NavBar" element={<NavBar />} />
