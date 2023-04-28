@@ -1,20 +1,3 @@
-// import React from "react";
-// import { movies } from "../data";
-
-// function Movies() {
-//   return <div>
-//     {/*{code here}*/}
-//     <h1>Movie Page</h1>
-//     <ul>
-//       <li>{movies.title}</li>
-//       <li>{movies.time}</li>
-//       <li>{}</li>
-//     </ul>
-//     </div>;
-  
-// }
-
-// export default Movies;
 import React from "react";
 import { movies } from "../data";
 
@@ -38,7 +21,3 @@ return (
 }
 
 export default Movies;
-
-
-
-
